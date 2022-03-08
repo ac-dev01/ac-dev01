@@ -1,5 +1,5 @@
 - Hi, I’m Ayush Chaurasia 
-- I’m interested in developing iOS Apps and also in options trading. 
+- I’m interested in developing iOS Apps and also in stock options trading. 
 - You can reach me at twitter @ACDNDSN, fb.com/acdndsn
 
 <!---
