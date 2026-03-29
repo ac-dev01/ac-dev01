@@ -1,6 +1,5 @@
-- Hi, I’m Ayush Chaurasia 
-- I’m love developing iOS/Android Apps, Loves experimenting with latest and legacy tech and also in deravitive trading. 
-- You can reach me at twitter @ACDNDSN
+- Hi, I’m Ayush Chaurasia. 
+- You can reach out to me at @ACDNDSN on twitter.
 
 <!---
 ac-dev01/ac-dev01 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
